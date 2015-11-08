@@ -8,7 +8,6 @@ public class TrackerActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        int tt = 0;
         setContentView(R.layout.activity_tracker);
     }
 }
